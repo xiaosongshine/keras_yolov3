@@ -1,0 +1,26 @@
+<annotation>
+	<folder>圆形</folder>
+	<filename>序列 020936.jpg</filename>
+	<path>G:\tf建模\圆形\序列 020936.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1415</xmin>
+			<ymin>729</ymin>
+			<xmax>1492</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

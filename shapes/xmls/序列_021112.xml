@@ -1,0 +1,26 @@
+<annotation>
+	<folder>正方形</folder>
+	<filename>序列 021112.jpg</filename>
+	<path>G:\tf建模\正方形\序列 021112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>square</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1141</xmin>
+			<ymin>495</ymin>
+			<xmax>1262</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

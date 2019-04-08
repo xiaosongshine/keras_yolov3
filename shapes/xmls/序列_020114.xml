@@ -1,0 +1,26 @@
+<annotation>
+	<folder>三角形</folder>
+	<filename>序列 020114.jpg</filename>
+	<path>G:\tf建模\三角形\序列 020114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>triangle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>692</ymin>
+			<xmax>297</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>三角形</folder>
+	<filename>VID_20181204_13.35.39134.jpg</filename>
+	<path>G:\tf建模\三角形\VID_20181204_13.35.39134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>triangle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>737</ymin>
+			<xmax>1043</xmax>
+			<ymax>844</ymax>
+		</bndbox>
+	</object>
+</annotation>
